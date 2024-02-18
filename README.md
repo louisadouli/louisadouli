@@ -5,7 +5,7 @@
 - <b>Full Stack Web Development (React JS + Flask)</b>
   - [NMR React](https://github.com/louisadouli/nmr_react)
 - <b>Full Stack Django Development</b>
-  - [Momoda Website](https://github.com/louisadouli/momoda)
+  - [Momoda Website](https://github.com/louisadouli/momoda_django)
 - <b>Tkinter PRD App (Python-Tkinter) </b>
   - [Tkinter PRD App](https://github.com/miladNemati-1/tkinter_prd_app)
 - <b>Java OOP Development</b>
